@@ -1,0 +1,5 @@
+可参考网站
+https://www.uniperne.com/h5/#/
+
+mysql的error code含义
+https://blog.csdn.net/weixin_43935187/article/details/121490781
